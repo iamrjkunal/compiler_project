@@ -1,6 +1,8 @@
 ##Searching and Navigating Source code
 
-Description:	Suppose we want a specific class from a large 			set of java files of which any one can have  the 			class we want.
+Description: 
+Suppose we want a specific class from a large set of java files of which any one can have the class we want.
 
-Solution:	go to Navigate > open type then just type name of 			the class. we can also use wildcards (like demo* 			or *demo)
+Solution:
+go to Navigate > open type then just type name of the class. we can also use wildcards (like demo* or *demo)
   
