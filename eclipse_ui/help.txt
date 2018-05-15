@@ -1,0 +1,51 @@
+#1#Searching and Navigating Source code
+
+Description:	
+Suppose we want a specific class from a large set of java files of which any one can have the class we want.
+
+Solution:
+go to Navigate > open type then just type name of the class. we can also use wildcards (like demo* or *demo).
+
+Note: for any doubt go to Navigate and explore the options or just right click on the code section and explore options.
+
+
+
+#2#Searching any stuffs related to code
+
+Solution:
+go to search> search and explore it.
+
+
+
+#3# generating auto java code for variables 
+
+Solutions:
+just define variables then right click>source> explore generate*
+
+
+
+#4# #very useful# 
+click ctrl+space for auto complete or suggestion for templates 
+
+
+
+#5# refactoring
+
+Description: 
+suppose we want to give name to a constant and variable let it automatically defined thn refactoring is used. we can also use it to select a group of codes and make class or what ever we want
+
+solution: 
+just select constant or variable then right click on it then goto refactor>extract constant or extract local variable
+for group of codes use extract method and then select types n all.
+
+
+
+
+#6# Debuging tool
+steps:
+1. just select the line upto which u want to run your code and debug it by right click>Toogle Breakpoint
+
+2. right click>debug As>java application
+3. now we can use step over to proceed line by line code from breakpoint line or if a class comes in between then use step into to go in the class
+
+Note: both step into or step over are present on top left corner  
