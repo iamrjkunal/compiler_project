@@ -1,8 +1,22 @@
-##Searching and Navigating Source code
+#1#Searching and Navigating Source code
 
 Description: 
 Suppose we want a specific class from a large set of java files of which any one can have the class we want.
 
 Solution:
-go to Navigate > open type then just type name of the class. we can also use wildcards (like demo* or *demo)
-  
+go to Navigate > open type then just type name of the class. we can also use wildcards (like demo* or *demo).
+
+Note: for any doubt go to Navigate and explore the options or just right click on the code section and explore options.
+
+#2#Searching any stuffs related to code
+
+Solution:
+go to search> search and explore it.
+
+#3# generating auto java code for variables 
+
+Solutions:
+just define variables then right click>source> explore generate*
+
+#4# click ctrl+space for auto complete or suggestion for templates 
+
