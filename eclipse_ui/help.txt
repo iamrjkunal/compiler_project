@@ -48,4 +48,18 @@ steps:
 2. right click>debug As>java application
 3. now we can use step over to proceed line by line code from breakpoint line or if a class comes in between then use step into to go in the class
 
-Note: both step into or step over are present on top left corner  
+Note: both step into or step over are present on top left corner 
+
+
+
+#7# adding jar files
+
+Description:
+jar files are just like libraries.
+
+solution:
+copy *.jar file and paste it on the current project(on left panel) where u r working i.e. writing codes n all.
+
+After pasting the jar file eclipse has to explicitly get aware of it so we have to do these for it:
+
+ right click on project u r working>properties>java Build path>libraries>add jars and add the jar file u want.
